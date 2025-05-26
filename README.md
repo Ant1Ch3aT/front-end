@@ -1,2 +1,3 @@
-# front-end
-front-end
+# 개발서버 실행
+
+yarn dev
