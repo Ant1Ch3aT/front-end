@@ -21,7 +21,8 @@ body {
   box-sizing: border-box; /* padding이 너비에 포함되도록 설정 */
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
   color: #0056b3;
 }
@@ -119,5 +120,6 @@ li span {
 }
 
 .edit-form {
-    flex-grow: 1;
-    display: flex;
+  flex-grow: 1;
+  display: flex;
+}
